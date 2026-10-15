@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
+__pycache__/
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
