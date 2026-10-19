@@ -8,6 +8,7 @@ genotype-by-environment interactions, statistical
 power, and exploratory epigenomic analysis.
 ```
 flowchart TB
+```
     A["HepG2 cells<br/>pooled siRNA transfection<br/>n = 4 independent replicates per condition"]
     A --> B1["NTC siRNA<br/>control"]
     A --> B2["siSREBF2<br/>knockdown"]
