@@ -6,7 +6,7 @@ Develop reproducible computational simulations to
 evaluate RNA-seq differential-expression methods,
 genotype-by-environment interactions, statistical
 power, and exploratory epigenomic analysis.
-```
+
 flowchart TB
 ```
     A["HepG2 cells<br/>pooled siRNA transfection<br/>n = 4 independent replicates per condition"]
